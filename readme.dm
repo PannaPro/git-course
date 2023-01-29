@@ -1,1 +1,1 @@
-redme.dm file
+Git and GitHub course
